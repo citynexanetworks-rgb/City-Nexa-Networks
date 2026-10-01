@@ -1,0 +1,6 @@
+{
+  "name": "City Nexa CRM",
+  "description": "City Nexa Networks Real Estate CRM & Sales Management platform for leads, projects, site visits, bookings, commissions and team analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Circular background circle or CN lettermark in royal dark blue -->
+    <!-- Outer ring 'C' -->
+    <path
+        android:fillColor="#003B95"
+        android:pathData="M 60,10 A 50,50 0 1,0 85,103 L 78,88 A 34,34 0 1,1 60,26 A 34,34 0 0,1 88,48 L 103,42 A 50,50 0 0,0 60,10 Z" />
+    <!-- Letter 'N' intertwined -->
+    <path
+        android:fillColor="#003B95"
+        android:pathData="M 45,35 L 59,35 L 59,62 L 85,35 L 99,35 L 99,95 L 85,95 L 85,68 L 59,95 L 45,95 Z" />
+</vector>
